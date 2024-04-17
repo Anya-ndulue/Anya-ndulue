@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ifunanya (Naya)
+
+-🔭 I am a freelance Ux designer and aspiring Product manager
+
+-🌱 I am learning Frontend development to help me better understand digital products
+
+-⚡ Fun fact: I love user research 
 <!--
 **Anya-ndulue/Anya-ndulue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
